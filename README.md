@@ -19,7 +19,7 @@ This system will:
 - Frameworks: JetPack Compose Multiplatform
 - Backend: Firebase
 - Database: Firestore.
-- Technology: NFC
+- Technology: NFC,Bluetooth Low Energy
 
 ## Steps to Install
 Step 1: Clone this repo:
