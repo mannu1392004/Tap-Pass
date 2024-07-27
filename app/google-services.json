@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561969928170",
+    "project_id": "tappass-26377",
+    "storage_bucket": "tappass-26377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561969928170:android:665b139e6ace55d9510493",
+        "android_client_info": {
+          "package_name": "com.example.tap_pass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoIldD8b2j7Dr_rmOu-nsU2NGwivyhM6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
